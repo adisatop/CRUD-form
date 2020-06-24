@@ -1,0 +1,12 @@
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\bin\Debug\CRUD-FORM.exe.config
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\bin\Debug\CRUD-FORM.exe
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\bin\Debug\CRUD-FORM.pdb
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD-FORM.csprojAssemblyReference.cache
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD_FORM.Create.resources
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD_FORM.Main.resources
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD_FORM.Properties.Resources.resources
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD-FORM.csproj.GenerateResource.cache
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD-FORM.csproj.CoreCompileInputs.cache
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD-FORM.exe
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD-FORM.pdb
+C:\Users\ilana\Source\Repos\CRUD-FORM\CRUD-FORM\obj\Debug\CRUD_FORM.ShowAll.resources
